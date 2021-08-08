@@ -1,12 +1,8 @@
 {
-    "name": "node-mongo-registration-login-api",
+    "name": "node-mongo-task-management-api",
     "version": "1.0.0",
-    "description": "NodeJS + MongoDB API for User Management, Authentication and Registration",
+    "description": "NodeJS + MongoDB API for Task Management, Authentication and Registration",
     "license": "MIT",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/cornflourblue/node-mongo-registration-login-api.git"
-    },
     "scripts": {
         "start": "node ./server.js",
         "start:dev": "nodemon ./server.js"
